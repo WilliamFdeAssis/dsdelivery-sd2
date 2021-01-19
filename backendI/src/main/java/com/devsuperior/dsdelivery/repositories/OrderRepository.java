@@ -1,4 +1,4 @@
-package com.devsuperior.dsdelivery.repositores;
+package com.devsuperior.dsdelivery.repositories;
 
 import com.devsuperior.dsdelivery.entities.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
